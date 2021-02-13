@@ -5,10 +5,22 @@ const Header = () => {
     return (
         <header>
             <h3>The Great Gatsby Experiment</h3>
-            <h5><Link to="/about">About</Link></h5>
-            <h5><Link to="/blog">Blog</Link></h5>
-            <h5><Link to="/contact">Contact</Link></h5>
-            <h5><Link to="/">Home</Link></h5>
+            <nav>
+                <ul>
+                    <li>
+                        <Link to="/">Home</Link>
+                    </li>
+                    <li>
+                        <Link to="/about">About</Link></li>
+                    <li>
+                        <Link to="/blog">Blog</Link>
+                    </li>
+                    <li>
+                        <Link to="/contact">Contact</Link>
+                    </li>
+                </ul>
+            </nav>
+            
         </header>
     )
 }
