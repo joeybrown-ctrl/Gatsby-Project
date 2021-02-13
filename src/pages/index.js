@@ -1,0 +1,12 @@
+import React from 'react';
+
+const IndexPage = () => {
+  return (
+    <div>
+      <h1>Hello.</h1>
+      <h2>I'm Joey, a full-stack developer living in beautiful Tucson</h2>
+    </div>
+  )
+}
+
+export default IndexPage
