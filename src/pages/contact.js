@@ -6,7 +6,7 @@ const ContactPage = () => {
     return (
         <Layout>
             <h1>
-                This is the contact page!
+                Contact me here:
             </h1>
             <h3><strong>Phone:</strong> 206 687-479</h3>
             <h3><strong>Email:</strong> gjoey.brown@gmail.com</h3>
