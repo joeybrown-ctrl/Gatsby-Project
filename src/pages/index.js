@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'gatsby';
 
-import Layout from '../components/Layout';
+import Layout from '../components/layout';
 
 const IndexPage = () => {
   return(
@@ -14,9 +14,3 @@ const IndexPage = () => {
 }
 
 export default IndexPage
-
-//Goal: add a couple of links to the site
-
-//1. on contact page, link to GH + LinkedIn
-//2. on about page, link to contact page
-//3. test my work!
