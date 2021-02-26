@@ -12,10 +12,10 @@
 
   
 * [Description](#description)
+
+* [Installation](#installation) 
   
 * [Built With](#builtwith) 
-  
-* [Contributors](#contributors) 
   
 * [License](#license)
   
