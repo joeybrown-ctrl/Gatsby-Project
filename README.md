@@ -47,6 +47,7 @@ My refactored portfolio website. Built using React, Gatsby and GraphQL. Utilizes
 * [React](https://reactjs.org/)
 * [GraphQL](https://graphql.org/)
 * [Node.js](https://nodejs.org/en/about/)
+* [Gatsby Starter Hello World](https://github.com/gatsbyjs/gatsby-starter-hello-world)
 * [Axios](https://www.npmjs.com/package/axios)
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
