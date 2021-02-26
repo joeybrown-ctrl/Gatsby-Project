@@ -26,7 +26,7 @@
 
   ## Description 
 
-My refactored portfolio website. Built using React, Gatsby and GraphQL. Utilizes GraphQL, Gatsby's internal APIs and various plug-ins to store and retrieve blog posts. The site has four pages: About, Blog, Portfolio and Contact. This project is ongoing and in-progress.
+My refactored portfolio website. Built using React, Gatsby and GraphQL. Utilizes GraphQL, Gatsby's internal APIs and various plug-ins to store and retrieve blog posts. The site has five pages: Home, About, Blog, Portfolio and Contact. This project is ongoing and in-progress.
 
   <hr>
 
