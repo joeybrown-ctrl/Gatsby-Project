@@ -6,8 +6,9 @@ const ContactPage = () => {
     return (
         <Layout>
             <h1>
-                Contact me here:
+                Find Me
             </h1>
+            <hr></hr>
             <h3><strong>Phone:</strong> 206 687-479</h3>
             <h3><strong>Email:</strong> gjoey.brown@gmail.com</h3>
             <h3><strong>Github:</strong> <a target="_blank" rel="noreferrer" href="https://github.com/joeybrown-ctrl/">joeybrown-ctrl</a></h3>
